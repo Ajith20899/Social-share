@@ -8,7 +8,7 @@ export const images = [
     "https://images.pexels.com/photos/29843712/pexels-photo-29843712/free-photo-of-elegant-european-building-with-red-roof.jpeg?auto=compress&cs=tinysrgb&w=1200&h=630",
     "https://images.pexels.com/photos/29933654/pexels-photo-29933654/free-photo-of-majestic-glacier-in-obergoms-switzerland.jpeg?auto=compress&cs=tinysrgb&w=1200&h=630",
     "https://images.pexels.com/photos/29203755/pexels-photo-29203755/free-photo-of-solo-fisherman-on-moroccan-boat-under-red-umbrella.jpeg?auto=compress&cs=tinysrgb&w=1200&h=630",
-    "https://images.pexels.com/photos/29145537/pexels-photo-29145537/free-photo-of-ancient-stone-wall-with-wooden-doorway.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "https://images.pexels.com/photos/29145537/pexels-photo-29145537/free-photo-of-ancient-stone-wall-with-wooden-doorway.jpeg?auto=compress&cs=tinysrgb&w=1260&h=630&dpr=2",
     "https://images.pexels.com/photos/29865382/pexels-photo-29865382/free-photo-of-colorful-beach-cabin-doors-in-le-havre-france.jpeg?auto=compress&cs=tinysrgb&w=1200&h=630",
     "https://plus.unsplash.com/premium_photo-1734626880757-a107821e718e?w=1200&h=630&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyfHx8ZW58MHx8fHx8",
     "https://images.unsplash.com/photo-1719937050446-a121748d4ba0?w=1200&h=630&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8"
